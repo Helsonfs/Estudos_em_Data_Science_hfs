@@ -1,1 +1,3 @@
-# Estudos_em_Data_Science_hfs
+# Estudos em Data Science hfs
+
+* Neste repositório vamos compartilhar projetos e estudos de Data Science.
